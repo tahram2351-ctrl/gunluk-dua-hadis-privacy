@@ -15,4 +15,4 @@ Günlük Dua & Hadis uygulaması kişisel bilgi toplamaz.
 
 ## İletişim
 
-Sorularınız için: [email@example.com]
+Sorularınız için: [tahram2351@gmail.com]
